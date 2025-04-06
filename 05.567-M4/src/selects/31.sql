@@ -1,0 +1,3 @@
+-- Pàgina 31
+SELECT DISTINCT sou
+FROM EMPLEATS;

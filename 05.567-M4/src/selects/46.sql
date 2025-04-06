@@ -1,0 +1,6 @@
+-- Pàgina 46
+SELECT ciutat
+FROM CLIENTS
+UNION
+SELECT ciutat_dpt
+FROM DEPARTAMENTS;

@@ -1,0 +1,15 @@
+{
+    "cSpell.language": "ca, en",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "DBUOC",
+            "database": "DBUOC",
+            "username": "postgres",
+            "password": "p4ssw0rd"
+        }
+    ]
+}
